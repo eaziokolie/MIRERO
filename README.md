@@ -1,10 +1,8 @@
-# MIRERO - one-page site
+# MIRERO 
 
-Static **HTML / CSS / JS** (no build step).
 
-## Run locally
 
-Open `index.html` in your browser.
+
 
 ## Quote form
 
