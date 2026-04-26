@@ -547,6 +547,30 @@ h1 {
   padding: 72px 0;
 }
 
+.section-intro {
+  padding-top: 56px;
+  padding-bottom: 56px;
+  border-bottom: 1px solid var(--line);
+  background: var(--surface);
+}
+
+.section-intro .intro-bullets {
+  max-width: 640px;
+  margin: 0 0 20px;
+  padding-left: 19px;
+}
+
+.section-intro .intro-tagline {
+  margin: 0;
+  max-width: 640px;
+  padding-left: 19px;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: clamp(1.15rem, 2vw, 1.35rem);
+  color: var(--primary);
+  letter-spacing: -0.01em;
+}
+
 .reveal {
   opacity: 0;
   transform: translateY(8px);

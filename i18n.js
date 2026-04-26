@@ -31,6 +31,16 @@
 
       "lang.groupAria": "Language",
 
+      "intro.heading": "Our Vision & Mission",
+      "intro.p1":
+        "At MIRERO, we are redefining business standards through precision, reliability, and a relentless focus on customer satisfaction. We combine engineering expertise with practical solutions to support industries that demand performance and consistency.",
+      "intro.p2":
+        "Driven by continuous improvement, we evolve with our partners, delivering not just products, but value at every stage.",
+      "intro.item1": "Premium quality in every product we deliver",
+      "intro.item2": "Efficient, reliable, and scalable solutions",
+      "intro.item3": "A professional, safe, and forward-thinking work environment",
+      "intro.tagline": "MIRERO, for the future.",
+
       "hero.kicker": "Danpla box manufacturing in Poland.",
       "hero.title1": "We specialize in ",
       "hero.titleAccent": "Danpla box production",
@@ -199,6 +209,16 @@
       "nav.menuClose": "Zamknij menu",
 
       "lang.groupAria": "Język",
+
+      "intro.heading": "Nasza wizja i misja",
+      "intro.p1":
+        "W MIRERO na nowo definiujemy standardy biznesowe poprzez precyzję, niezawodność i konsekwentny nacisk na satysfakcję klienta. Łączymy inżynierską wiedzę z praktycznymi rozwiązaniami, by wspierać branże, które wymagają wydajności i powtarzalności.",
+      "intro.p2":
+        "Napędzani ciągłym doskonaleniem rozwijamy się razem z partnerami, dostarczając nie tylko produkty, ale wartość na każdym etapie.",
+      "intro.item1": "Najwyższa jakość w każdym dostarczonym produkcie",
+      "intro.item2": "Wydajne, niezawodne i skalowalne rozwiązania",
+      "intro.item3": "Profesjonalne, bezpieczne i nastawione na przyszłość środowisko pracy",
+      "intro.tagline": "MIRERO, ku przyszłości.",
 
       "hero.kicker": "Produkcja skrzynek Danpla w Polsce.",
       "hero.title1": "Specjalizujemy się w ",
@@ -369,6 +389,16 @@
       "nav.menuClose": "메뉴 닫기",
 
       "lang.groupAria": "언어",
+
+      "intro.heading": "비전과 미션",
+      "intro.p1":
+        "MIRERO는 정밀함, 신뢰성, 고객 만족에 대한 끊임없는 집중을 통해 비즈니스 기준을 새롭게 정의합니다. 성능과 일관성을 요구하는 산업을 지원하기 위해 엔지니어링 역량과 실용적인 솔루션을 결합합니다.",
+      "intro.p2":
+        "지속적인 개선을 바탕으로 파트너와 함께 성장하며, 단순한 제품이 아니라 모든 단계에서 가치를 전달합니다.",
+      "intro.item1": "납품하는 모든 제품의 프리미엄 품질",
+      "intro.item2": "효율적이고 신뢰할 수 있으며 확장 가능한 솔루션",
+      "intro.item3": "전문적이고 안전하며 미래 지향적인 근무 환경",
+      "intro.tagline": "MIRERO, 미래를 향해.",
 
       "hero.kicker": "폴란드 단플라 박스 제조.",
       "hero.title1": "저희는 제조업체를 위한 ",
