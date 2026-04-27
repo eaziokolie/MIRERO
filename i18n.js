@@ -47,7 +47,7 @@
       "hero.titleAccent": "corrugated plastic box production",
       "hero.title2": " [reusable shipping and storage boxes] for manufacturers.",
       "hero.lead":
-        "We manufacture corrugated plastic boxes at our own plant in Poland. Boxes are our daily work. We also supply related packaging, trolleys and racks, and selective line support when it supports your box program.",
+        "We manufacture corrugated plastic boxes at our own plant in Poland. We also provide complementary packaging, trolleys and racks, and selective line-side support when it adds value to your packaging program.",
       "hero.getQuote": "Get a quote",
       "hero.viewServices": "View services",
       "hero.statsAria": "Highlights",
@@ -238,7 +238,7 @@
       "hero.titleAccent": "produkcji skrzynek z tworzywa kanalikowego",
       "hero.title2": " [wielorazowe skrzynki transportowe i magazynowe] dla producentów.",
       "hero.lead":
-        "Produkujemy skrzynki z tworzywa kanalikowego w naszym własnym zakładzie w Polsce. Skrzynki to nasza codzienna praca. Dostarczamy też powiązane opakowania, wózki i regały oraz selektywne wsparcie liniowe, gdy wspiera program skrzynek.",
+        "Produkujemy skrzynki z tworzywa kanalikowego w naszym własnym zakładzie w Polsce. Dostarczamy także uzupełniające opakowania, wózki i regały oraz selektywne wsparcie przy linii, gdy realnie wzmacnia to Twój program opakowań.",
       "hero.getQuote": "Poproś o wycenę",
       "hero.viewServices": "Zobacz usługi",
       "hero.statsAria": "Najważniejsze informacje",
@@ -430,7 +430,7 @@
       "hero.titleAccent": "플라스틱 골판 박스(재사용 출하·보관용) 생산",
       "hero.title2": "에 특화되어 있습니다.",
       "hero.lead":
-        "저희는 폴란드 자체 공장에서 플라스틱 골판 박스를 생산합니다. 박스가 저희의 일상 업무입니다. 박스 프로그램을 지원할 때 관련 포장, 트롤리 및 랙, 선택적 라인 지원도 공급합니다.",
+        "저희는 폴란드 자체 공장에서 플라스틱 골판 박스를 생산합니다. 또한 관련 포장, 트롤리 및 랙, 선택적 라인 사이드 지원을 제공하며, 귀사의 포장 프로그램에 실질적인 가치를 더하는 경우에만 함께 제안합니다.",
       "hero.getQuote": "견적 받기",
       "hero.viewServices": "서비스 보기",
       "hero.statsAria": "주요 정보",
